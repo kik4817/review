@@ -1,2 +1,3 @@
 ﻿  main.c
+C:\Users\kik48\Desktop\review\C\Cstydy\Operator\main.c(39,38): warning C4101: 'Exp3' :참조되지 않은 지역 변수입니다.
   Operator.vcxproj -> C:\Users\kik48\Desktop\review\C\Cstydy\x64\Debug\Operator.exe
