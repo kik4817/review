@@ -3,6 +3,10 @@
   "WorkspaceRootPath": "C:\\Users\\kik48\\Desktop\\review\\C\\Cstydy\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{879759BC-4558-4B6A-8790-2F5C965E1374}|ch6\\ch6.vcxproj|C:\\Users\\kik48\\Desktop\\review\\C\\Cstydy\\ch6\\main.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{879759BC-4558-4B6A-8790-2F5C965E1374}|ch6\\ch6.vcxproj|solutionrelative:ch6\\main.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{D345BE36-FC93-4D9B-8EA3-C3E79CA8B455}|Operator\\Operator.vcxproj|C:\\Users\\kik48\\Desktop\\review\\C\\Cstydy\\Operator\\main.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{D345BE36-FC93-4D9B-8EA3-C3E79CA8B455}|Operator\\Operator.vcxproj|solutionrelative:Operator\\main.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     }
@@ -20,11 +24,24 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "main.c",
+              "DocumentMoniker": "C:\\Users\\kik48\\Desktop\\review\\C\\Cstydy\\ch6\\main.c",
+              "RelativeDocumentMoniker": "ch6\\main.c",
+              "ToolTip": "C:\\Users\\kik48\\Desktop\\review\\C\\Cstydy\\ch6\\main.c",
+              "RelativeToolTip": "ch6\\main.c",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAC0AAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2025-02-24T11:18:02.667Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "main.c",
               "DocumentMoniker": "C:\\Users\\kik48\\Desktop\\review\\C\\Cstydy\\Operator\\main.c",
               "RelativeDocumentMoniker": "Operator\\main.c",
               "ToolTip": "C:\\Users\\kik48\\Desktop\\review\\C\\Cstydy\\Operator\\main.c",
               "RelativeToolTip": "Operator\\main.c",
-              "ViewState": "AgIAACcAAAAAAAAAAAAAAAUAAAAbAAAAAAAAAA==",
+              "ViewState": "AgIAAEQAAAAAAAAAAAAgwEoAAAAXAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
               "WhenOpened": "2025-02-19T12:34:34.725Z",
               "EditorCaption": ""
