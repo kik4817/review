@@ -1,4 +1,4 @@
-#define _CRT_SECURE_NO_WARNINGS
+
 #include <stdio.h>
 #include <stdlib.h>
 #include <time.h>
@@ -15,7 +15,7 @@ int main() {
 	while (1) {
 		printf("1.난이도 설정\n2.게임하기\n3.내 점수 보기\n4.종료하기\n");
 		printf("메뉴 선택 >>>>>");
-		scanf("%d", &choice);
+		scanf_s("%d", &choice);
 
 		if (choice == 4) {
 			printf("게임은 잘 즐기셨나요~?? %d점으로 마무리!", totalScore);
@@ -24,7 +24,7 @@ int main() {
 
 		if (choice == 1) {
 			printf("1.상 2.중 3.하\n 난이도선택>>>>>");
-			scanf("%d", &choice);
+			scanf_s("%d", &choice);
 			switch (choice) {
 			case 1:
 				difficulty = 3;
@@ -58,7 +58,7 @@ int main() {
 			continue;
 		}
 		printf("정답을 입력하세요.>>>>>");
-		scanf("%d", &choice);
+		scanf_s("%d", &choice);
 		if (answer == choice) {
 			printf("정답!. %d점이 추가됩니다!\n", score);
 			totalScore += score;
