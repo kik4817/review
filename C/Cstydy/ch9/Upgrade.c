@@ -7,10 +7,13 @@ int baseAP = 10;
 int currentAP = 0;
 
 void ShowUpgradeMenu()
+
 {
+	int normalCost = 100;
+	int highCost = 500;
+
 	while (true)
 	{
-		system("cls");
 		printf("1._강화한다.\n");
 		printf("2._고급 이용소 사용.\n");
 		printf("3._강화를 취소한다.\n");
@@ -22,11 +25,17 @@ void ShowUpgradeMenu()
 
 		if (inputnumver == 1)
 		{
-			WeaponUpgrade();
+			if (UseMoney(normalCost))
+			{
+				WeaponUpgrade();
+			}
 		}
 		else if (inputnumver == 2)
 		{
-			HighWeaponUpgrade();
+			if (UseMoney(highCost))
+			{
+				HighWeaponUpgrade();
+			}			
 		}
 		else if (inputnumver == 3)
 		{
@@ -38,8 +47,8 @@ void ShowUpgradeMenu()
 			printf("잘못된 입력값\n");
 		}
 
-		printf("진행을 하려면 아무 키를 입력해주세요.\n");
-		_getch();	
+		//WaitinputanyKey();
+
 	}
 
 	

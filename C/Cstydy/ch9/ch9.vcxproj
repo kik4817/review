@@ -127,12 +127,15 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
+    <ClCompile Include="CurrentMoney.c" />
     <ClCompile Include="leture.c" />
     <ClCompile Include="main.c" />
     <ClCompile Include="Upgrade.c" />
   </ItemGroup>
   <ItemGroup>
+    <ClInclude Include="CurrentMoney.h" />
     <ClInclude Include="leture.h" />
+    <ClInclude Include="main.h" />
     <ClInclude Include="Upgrade.h" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
