@@ -3,48 +3,16 @@
   "WorkspaceRootPath": "C:\\Users\\kik48\\Desktop\\review\\C\\Cstydy\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{1148C9F4-B216-4DBF-B47D-AB93D631EB07}|ToyProject\\ToyProject.vcxproj|C:\\Users\\kik48\\Desktop\\review\\C\\Cstydy\\ToyProject\\EnforceWeapon.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{1148C9F4-B216-4DBF-B47D-AB93D631EB07}|ToyProject\\ToyProject.vcxproj|solutionrelative:ToyProject\\EnforceWeapon.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{07DDFBA1-51DF-4538-BC1C-E530EDF80879}|ToyProject02\\ToyProject02.vcxproj|C:\\Users\\kik48\\Desktop\\review\\C\\Cstydy\\ToyProject02\\main.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{07DDFBA1-51DF-4538-BC1C-E530EDF80879}|ToyProject02\\ToyProject02.vcxproj|solutionrelative:ToyProject02\\main.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{1148C9F4-B216-4DBF-B47D-AB93D631EB07}|ToyProject\\ToyProject.vcxproj|C:\\Users\\kik48\\Desktop\\review\\C\\Cstydy\\ToyProject\\EnforceWeapon.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{1148C9F4-B216-4DBF-B47D-AB93D631EB07}|ToyProject\\ToyProject.vcxproj|solutionrelative:ToyProject\\EnforceWeapon.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{07DDFBA1-51DF-4538-BC1C-E530EDF80879}|ToyProject02\\ToyProject02.vcxproj|C:\\Users\\kik48\\Desktop\\review\\C\\Cstydy\\ToyProject02\\Border.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{07DDFBA1-51DF-4538-BC1C-E530EDF80879}|ToyProject02\\ToyProject02.vcxproj|solutionrelative:ToyProject02\\Border.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{1148C9F4-B216-4DBF-B47D-AB93D631EB07}|ToyProject\\ToyProject.vcxproj|C:\\Users\\kik48\\Desktop\\review\\C\\Cstydy\\ToyProject\\Play.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{1148C9F4-B216-4DBF-B47D-AB93D631EB07}|ToyProject\\ToyProject.vcxproj|solutionrelative:ToyProject\\Play.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{1148C9F4-B216-4DBF-B47D-AB93D631EB07}|ToyProject\\ToyProject.vcxproj|C:\\Users\\kik48\\Desktop\\review\\C\\Cstydy\\ToyProject\\Random.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{1148C9F4-B216-4DBF-B47D-AB93D631EB07}|ToyProject\\ToyProject.vcxproj|solutionrelative:ToyProject\\Random.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{1148C9F4-B216-4DBF-B47D-AB93D631EB07}|ToyProject\\ToyProject.vcxproj|C:\\Users\\kik48\\Desktop\\review\\C\\Cstydy\\ToyProject\\Random.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{1148C9F4-B216-4DBF-B47D-AB93D631EB07}|ToyProject\\ToyProject.vcxproj|solutionrelative:ToyProject\\Random.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{1148C9F4-B216-4DBF-B47D-AB93D631EB07}|ToyProject\\ToyProject.vcxproj|C:\\Users\\kik48\\Desktop\\review\\C\\Cstydy\\ToyProject\\Currency.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{1148C9F4-B216-4DBF-B47D-AB93D631EB07}|ToyProject\\ToyProject.vcxproj|solutionrelative:ToyProject\\Currency.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{1148C9F4-B216-4DBF-B47D-AB93D631EB07}|ToyProject\\ToyProject.vcxproj|C:\\Users\\kik48\\Desktop\\review\\C\\Cstydy\\ToyProject\\Currency.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{1148C9F4-B216-4DBF-B47D-AB93D631EB07}|ToyProject\\ToyProject.vcxproj|solutionrelative:ToyProject\\Currency.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{1148C9F4-B216-4DBF-B47D-AB93D631EB07}|ToyProject\\ToyProject.vcxproj|C:\\Users\\kik48\\Desktop\\review\\C\\Cstydy\\ToyProject\\main.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{1148C9F4-B216-4DBF-B47D-AB93D631EB07}|ToyProject\\ToyProject.vcxproj|solutionrelative:ToyProject\\main.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{1148C9F4-B216-4DBF-B47D-AB93D631EB07}|ToyProject\\ToyProject.vcxproj|C:\\Users\\kik48\\Desktop\\review\\C\\Cstydy\\ToyProject\\Play.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{1148C9F4-B216-4DBF-B47D-AB93D631EB07}|ToyProject\\ToyProject.vcxproj|solutionrelative:ToyProject\\Play.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{1148C9F4-B216-4DBF-B47D-AB93D631EB07}|ToyProject\\ToyProject.vcxproj|C:\\Users\\kik48\\Desktop\\review\\C\\Cstydy\\ToyProject\\Intro.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{1148C9F4-B216-4DBF-B47D-AB93D631EB07}|ToyProject\\ToyProject.vcxproj|solutionrelative:ToyProject\\Intro.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{1148C9F4-B216-4DBF-B47D-AB93D631EB07}|ToyProject\\ToyProject.vcxproj|C:\\Users\\kik48\\Desktop\\review\\C\\Cstydy\\ToyProject\\Intro.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{1148C9F4-B216-4DBF-B47D-AB93D631EB07}|ToyProject\\ToyProject.vcxproj|solutionrelative:ToyProject\\Intro.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{07DDFBA1-51DF-4538-BC1C-E530EDF80879}|ToyProject02\\ToyProject02.vcxproj|C:\\Users\\kik48\\Desktop\\review\\C\\Cstydy\\ToyProject02\\Border.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{07DDFBA1-51DF-4538-BC1C-E530EDF80879}|ToyProject02\\ToyProject02.vcxproj|solutionrelative:ToyProject02\\Border.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     }
   ],
   "DocumentGroupContainers": [
@@ -54,149 +22,45 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 4,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "Currency.c",
-              "DocumentMoniker": "C:\\Users\\kik48\\Desktop\\review\\C\\Cstydy\\ToyProject\\Currency.c",
-              "RelativeDocumentMoniker": "ToyProject\\Currency.c",
-              "ToolTip": "C:\\Users\\kik48\\Desktop\\review\\C\\Cstydy\\ToyProject\\Currency.c",
-              "RelativeToolTip": "ToyProject\\Currency.c",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
-              "WhenOpened": "2025-03-04T18:04:24.831Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "Currency.h",
-              "DocumentMoniker": "C:\\Users\\kik48\\Desktop\\review\\C\\Cstydy\\ToyProject\\Currency.h",
-              "RelativeDocumentMoniker": "ToyProject\\Currency.h",
-              "ToolTip": "C:\\Users\\kik48\\Desktop\\review\\C\\Cstydy\\ToyProject\\Currency.h",
-              "RelativeToolTip": "ToyProject\\Currency.h",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAATAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
-              "WhenOpened": "2025-03-04T18:04:12.659Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "Random.c",
-              "DocumentMoniker": "C:\\Users\\kik48\\Desktop\\review\\C\\Cstydy\\ToyProject\\Random.c",
-              "RelativeDocumentMoniker": "ToyProject\\Random.c",
-              "ToolTip": "C:\\Users\\kik48\\Desktop\\review\\C\\Cstydy\\ToyProject\\Random.c",
-              "RelativeToolTip": "ToyProject\\Random.c",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
-              "WhenOpened": "2025-03-04T17:18:05.114Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "Random.h",
-              "DocumentMoniker": "C:\\Users\\kik48\\Desktop\\review\\C\\Cstydy\\ToyProject\\Random.h",
-              "RelativeDocumentMoniker": "ToyProject\\Random.h",
-              "ToolTip": "C:\\Users\\kik48\\Desktop\\review\\C\\Cstydy\\ToyProject\\Random.h",
-              "RelativeToolTip": "ToyProject\\Random.h",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAkAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
-              "WhenOpened": "2025-03-04T17:17:52.82Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "EnforceWeapon.c",
-              "DocumentMoniker": "C:\\Users\\kik48\\Desktop\\review\\C\\Cstydy\\ToyProject\\EnforceWeapon.c",
-              "RelativeDocumentMoniker": "ToyProject\\EnforceWeapon.c",
-              "ToolTip": "C:\\Users\\kik48\\Desktop\\review\\C\\Cstydy\\ToyProject\\EnforceWeapon.c",
-              "RelativeToolTip": "ToyProject\\EnforceWeapon.c",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAOAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
-              "WhenOpened": "2025-03-04T16:37:12.942Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "EnforceWeapon.h",
-              "DocumentMoniker": "C:\\Users\\kik48\\Desktop\\review\\C\\Cstydy\\ToyProject\\EnforceWeapon.h",
-              "RelativeDocumentMoniker": "ToyProject\\EnforceWeapon.h",
-              "ToolTip": "C:\\Users\\kik48\\Desktop\\review\\C\\Cstydy\\ToyProject\\EnforceWeapon.h",
-              "RelativeToolTip": "ToyProject\\EnforceWeapon.h",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAATAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
-              "WhenOpened": "2025-03-04T16:37:02.718Z",
+              "Title": "Border.c",
+              "DocumentMoniker": "C:\\Users\\kik48\\Desktop\\review\\C\\Cstydy\\ToyProject02\\Border.c",
+              "RelativeDocumentMoniker": "ToyProject02\\Border.c",
+              "ToolTip": "C:\\Users\\kik48\\Desktop\\review\\C\\Cstydy\\ToyProject02\\Border.c",
+              "RelativeToolTip": "ToyProject02\\Border.c",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2025-03-10T13:56:45.172Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "Play.c",
-              "DocumentMoniker": "C:\\Users\\kik48\\Desktop\\review\\C\\Cstydy\\ToyProject\\Play.c",
-              "RelativeDocumentMoniker": "ToyProject\\Play.c",
-              "ToolTip": "C:\\Users\\kik48\\Desktop\\review\\C\\Cstydy\\ToyProject\\Play.c",
-              "RelativeToolTip": "ToyProject\\Play.c",
-              "ViewState": "AgIAACcAAAAAAAAAAAAAAA0AAAAeAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
-              "WhenOpened": "2025-03-04T16:12:25.649Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "Play.h",
-              "DocumentMoniker": "C:\\Users\\kik48\\Desktop\\review\\C\\Cstydy\\ToyProject\\Play.h",
-              "RelativeDocumentMoniker": "ToyProject\\Play.h",
-              "ToolTip": "C:\\Users\\kik48\\Desktop\\review\\C\\Cstydy\\ToyProject\\Play.h",
-              "RelativeToolTip": "ToyProject\\Play.h",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAaAAAAAAAAAA==",
+              "Title": "Border.h",
+              "DocumentMoniker": "C:\\Users\\kik48\\Desktop\\review\\C\\Cstydy\\ToyProject02\\Border.h",
+              "RelativeDocumentMoniker": "ToyProject02\\Border.h",
+              "ToolTip": "C:\\Users\\kik48\\Desktop\\review\\C\\Cstydy\\ToyProject02\\Border.h",
+              "RelativeToolTip": "ToyProject02\\Border.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAALAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
-              "WhenOpened": "2025-03-04T16:12:16.615Z",
+              "WhenOpened": "2025-03-10T13:56:31.324Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
-              "Title": "Intro.c",
-              "DocumentMoniker": "C:\\Users\\kik48\\Desktop\\review\\C\\Cstydy\\ToyProject\\Intro.c",
-              "RelativeDocumentMoniker": "ToyProject\\Intro.c",
-              "ToolTip": "C:\\Users\\kik48\\Desktop\\review\\C\\Cstydy\\ToyProject\\Intro.c",
-              "RelativeToolTip": "ToyProject\\Intro.c",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAVAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
-              "WhenOpened": "2025-03-04T16:11:24.99Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "Intro.h",
-              "DocumentMoniker": "C:\\Users\\kik48\\Desktop\\review\\C\\Cstydy\\ToyProject\\Intro.h",
-              "RelativeDocumentMoniker": "ToyProject\\Intro.h",
-              "ToolTip": "C:\\Users\\kik48\\Desktop\\review\\C\\Cstydy\\ToyProject\\Intro.h",
-              "RelativeToolTip": "ToyProject\\Intro.h",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAARAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
-              "WhenOpened": "2025-03-04T16:11:14.927Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 0,
               "Title": "main.c",
-              "DocumentMoniker": "C:\\Users\\kik48\\Desktop\\review\\C\\Cstydy\\ToyProject\\main.c",
-              "RelativeDocumentMoniker": "ToyProject\\main.c",
-              "ToolTip": "C:\\Users\\kik48\\Desktop\\review\\C\\Cstydy\\ToyProject\\main.c",
-              "RelativeToolTip": "ToyProject\\main.c",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAA==",
+              "DocumentMoniker": "C:\\Users\\kik48\\Desktop\\review\\C\\Cstydy\\ToyProject02\\main.c",
+              "RelativeDocumentMoniker": "ToyProject02\\main.c",
+              "ToolTip": "C:\\Users\\kik48\\Desktop\\review\\C\\Cstydy\\ToyProject02\\main.c",
+              "RelativeToolTip": "ToyProject02\\main.c",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAAACcAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
-              "WhenOpened": "2025-03-04T16:09:56.783Z",
+              "WhenOpened": "2025-03-10T13:47:30.61Z",
               "EditorCaption": ""
             }
           ]
