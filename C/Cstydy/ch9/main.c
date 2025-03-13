@@ -25,7 +25,7 @@ int main()
 	ShowInfo();
 	system("cls");
 
-	UseMoney(1500);
+	//UseMoney(1500);
 
 	//ShowExample();
 	ShowUpgradeMenu();

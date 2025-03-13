@@ -13,7 +13,7 @@ void ShowMenu()
 	{
 		if (CanUpgrade(UpgradeCost))
 		{
-			if (CheckRandomFunc(50))
+			if (CheckRandomFunc(90))
 			{
 				Upgrade();
 			}
