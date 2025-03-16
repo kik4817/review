@@ -4,7 +4,7 @@
 void ShowBorder()
 {
 	printf("бсбсбсбсбс\n");
-	printf("бс   бс\n");
+	printf("бсб┘  бс\n");
 	printf("бс   бс\n");
 	printf("бс   бс\n");
 	printf("бсбсбсбсбс\n");
