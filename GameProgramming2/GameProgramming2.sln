@@ -13,6 +13,10 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Input", "Input", "{AEBA09B4
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "PlayerInput", "PlayerInput\PlayerInput.vcxproj", "{10F9DC89-E473-4A25-94BD-9EF7832C1A01}"
 EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "CH03", "CH03", "{E0FEC07E-7398-4E7E-A66F-2D6E27D53CB5}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Ch03", "Ch03\Ch03.vcxproj", "{93EE210E-ABCB-41DE-9F98-F7F573C6A8A0}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -45,6 +49,14 @@ Global
 		{10F9DC89-E473-4A25-94BD-9EF7832C1A01}.Release|x64.Build.0 = Release|x64
 		{10F9DC89-E473-4A25-94BD-9EF7832C1A01}.Release|x86.ActiveCfg = Release|Win32
 		{10F9DC89-E473-4A25-94BD-9EF7832C1A01}.Release|x86.Build.0 = Release|Win32
+		{93EE210E-ABCB-41DE-9F98-F7F573C6A8A0}.Debug|x64.ActiveCfg = Debug|x64
+		{93EE210E-ABCB-41DE-9F98-F7F573C6A8A0}.Debug|x64.Build.0 = Debug|x64
+		{93EE210E-ABCB-41DE-9F98-F7F573C6A8A0}.Debug|x86.ActiveCfg = Debug|Win32
+		{93EE210E-ABCB-41DE-9F98-F7F573C6A8A0}.Debug|x86.Build.0 = Debug|Win32
+		{93EE210E-ABCB-41DE-9F98-F7F573C6A8A0}.Release|x64.ActiveCfg = Release|x64
+		{93EE210E-ABCB-41DE-9F98-F7F573C6A8A0}.Release|x64.Build.0 = Release|x64
+		{93EE210E-ABCB-41DE-9F98-F7F573C6A8A0}.Release|x86.ActiveCfg = Release|Win32
+		{93EE210E-ABCB-41DE-9F98-F7F573C6A8A0}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -52,6 +64,7 @@ Global
 	GlobalSection(NestedProjects) = preSolution
 		{600E46CB-A70C-4F47-8C56-4BE4BA027BDF} = {C8D5274F-AC00-46C7-1F8D-E88E81087A52}
 		{10F9DC89-E473-4A25-94BD-9EF7832C1A01} = {AEBA09B4-674F-4949-8A9F-C77049AE1398}
+		{93EE210E-ABCB-41DE-9F98-F7F573C6A8A0} = {E0FEC07E-7398-4E7E-A66F-2D6E27D53CB5}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {7D9C7530-31F8-4FE9-BD99-B0FC58B4EAAF}
