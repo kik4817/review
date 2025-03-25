@@ -1,2 +1,5 @@
 ﻿  main.c
-  Ch08.vcxproj -> C:\Users\kik48\Desktop\review\GameProgramming2\x64\Debug\Ch08.exe
+  Stage.c
+  코드를 생성하고 있습니다...
+C:\Users\kik48\Desktop\review\GameProgramming2\Ch08\Stage.c(5,9): error C2063: 'Stage': 함수가 아닙니다.
+C:\Users\kik48\Desktop\review\GameProgramming2\Ch08\Stage.c(5,2): warning C4033: 'GetStageInfo'은(는) 값을 반환해야 합니다.

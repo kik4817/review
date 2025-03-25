@@ -1,14 +1,4 @@
-﻿  PlayerInput.c
-C:\Users\kik48\Desktop\review\GameProgramming2\PlayerInput\PlayerInput.c(5,8): warning C4047: '초기화 중': 'SHORT'의 간접 참조 수준이 'int **'과(와) 다릅니다.
-C:\Users\kik48\Desktop\review\GameProgramming2\PlayerInput\PlayerInput.c(11,7): error C2082: 'playerX' 정식 매개 변수 재정의
-C:\Users\kik48\Desktop\review\GameProgramming2\PlayerInput\PlayerInput.c(12,7): error C2082: 'playerY' 정식 매개 변수 재정의
-C:\Users\kik48\Desktop\review\GameProgramming2\PlayerInput\PlayerInput.c(13,7): warning C4047: '함수': 'int *'의 간접 참조 수준이 'int **'과(와) 다릅니다.
-C:\Users\kik48\Desktop\review\GameProgramming2\PlayerInput\PlayerInput.c(13,7): warning C4024: 'GoXY': 형식 및 실제 매개 변수 1의 형식이 서로 다릅니다.
-C:\Users\kik48\Desktop\review\GameProgramming2\PlayerInput\PlayerInput.c(13,17): warning C4047: '함수': 'int *'의 간접 참조 수준이 'int **'과(와) 다릅니다.
-C:\Users\kik48\Desktop\review\GameProgramming2\PlayerInput\PlayerInput.c(13,17): warning C4024: 'GoXY': 형식 및 실제 매개 변수 2의 형식이 서로 다릅니다.
-C:\Users\kik48\Desktop\review\GameProgramming2\PlayerInput\PlayerInput.c(51,13): error C2065: 'playerX': 선언되지 않은 식별자입니다.
-C:\Users\kik48\Desktop\review\GameProgramming2\PlayerInput\PlayerInput.c(51,23): error C2065: 'playerY': 선언되지 않은 식별자입니다.
-C:\Users\kik48\Desktop\review\GameProgramming2\PlayerInput\PlayerInput.c(52,9): error C2065: 'playerX': 선언되지 않은 식별자입니다.
-C:\Users\kik48\Desktop\review\GameProgramming2\PlayerInput\PlayerInput.c(52,19): error C2065: 'playerY': 선언되지 않은 식별자입니다.
-C:\Users\kik48\Desktop\review\GameProgramming2\PlayerInput\PlayerInput.c(53,36): error C2065: 'playerX': 선언되지 않은 식별자입니다.
-C:\Users\kik48\Desktop\review\GameProgramming2\PlayerInput\PlayerInput.c(53,45): error C2065: 'playerY': 선언되지 않은 식별자입니다.
+﻿  main.c
+  PlayerInput.c
+  코드를 생성하고 있습니다...
+  PlayerInput.vcxproj -> C:\Users\kik48\Desktop\review\GameProgramming2\x64\Debug\PlayerInput.exe
