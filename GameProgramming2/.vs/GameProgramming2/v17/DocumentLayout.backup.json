@@ -3,32 +3,52 @@
   "WorkspaceRootPath": "C:\\Users\\kik48\\Desktop\\review\\GameProgramming2\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{66BE8672-AAD3-4546-A325-62B7000D2D2E}|Ch09\\Ch09.vcxproj|C:\\Users\\kik48\\Desktop\\review\\GameProgramming2\\Ch09\\Item.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{66BE8672-AAD3-4546-A325-62B7000D2D2E}|Ch09\\Ch09.vcxproj|solutionrelative:Ch09\\Item.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{55C3AA27-3EF6-47C4-BA94-FC910AEF30E0}|Ch10\\Ch10.vcxproj|C:\\Users\\kik48\\Desktop\\review\\GameProgramming2\\Ch10\\main.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{55C3AA27-3EF6-47C4-BA94-FC910AEF30E0}|Ch10\\Ch10.vcxproj|solutionrelative:Ch10\\main.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{66BE8672-AAD3-4546-A325-62B7000D2D2E}|Ch09\\Ch09.vcxproj|C:\\Users\\kik48\\Desktop\\review\\GameProgramming2\\Ch09\\Stage.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{66BE8672-AAD3-4546-A325-62B7000D2D2E}|Ch09\\Ch09.vcxproj|solutionrelative:Ch09\\Stage.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{62DF2CCC-84AB-4567-97EA-3C6A6B792D19}|Ch07\\Ch07.vcxproj|C:\\Users\\kik48\\Desktop\\review\\GameProgramming2\\Ch07\\main.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{62DF2CCC-84AB-4567-97EA-3C6A6B792D19}|Ch07\\Ch07.vcxproj|solutionrelative:Ch07\\main.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{66BE8672-AAD3-4546-A325-62B7000D2D2E}|Ch09\\Ch09.vcxproj|C:\\Users\\kik48\\Desktop\\review\\GameProgramming2\\Ch09\\Stage.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{66BE8672-AAD3-4546-A325-62B7000D2D2E}|Ch09\\Ch09.vcxproj|solutionrelative:Ch09\\Stage.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{62DF2CCC-84AB-4567-97EA-3C6A6B792D19}|Ch07\\Ch07.vcxproj|C:\\Users\\kik48\\Desktop\\review\\GameProgramming2\\Ch07\\Player.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{62DF2CCC-84AB-4567-97EA-3C6A6B792D19}|Ch07\\Ch07.vcxproj|solutionrelative:Ch07\\Player.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{55C3AA27-3EF6-47C4-BA94-FC910AEF30E0}|Ch10\\Ch10.vcxproj|C:\\Users\\kik48\\Desktop\\review\\GameProgramming2\\Ch10\\MyGame.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{55C3AA27-3EF6-47C4-BA94-FC910AEF30E0}|Ch10\\Ch10.vcxproj|solutionrelative:Ch10\\MyGame.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{55C3AA27-3EF6-47C4-BA94-FC910AEF30E0}|Ch10\\Ch10.vcxproj|C:\\Users\\kik48\\Desktop\\review\\GameProgramming2\\Ch10\\MyGame.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{55C3AA27-3EF6-47C4-BA94-FC910AEF30E0}|Ch10\\Ch10.vcxproj|solutionrelative:Ch10\\MyGame.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{62DF2CCC-84AB-4567-97EA-3C6A6B792D19}|Ch07\\Ch07.vcxproj|C:\\Users\\kik48\\Desktop\\review\\GameProgramming2\\Ch07\\Player.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{62DF2CCC-84AB-4567-97EA-3C6A6B792D19}|Ch07\\Ch07.vcxproj|solutionrelative:Ch07\\Player.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{55C3AA27-3EF6-47C4-BA94-FC910AEF30E0}|Ch10\\Ch10.vcxproj|C:\\Users\\kik48\\Desktop\\review\\GameProgramming2\\Ch10\\Stage.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{55C3AA27-3EF6-47C4-BA94-FC910AEF30E0}|Ch10\\Ch10.vcxproj|solutionrelative:Ch10\\Stage.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A6171545-59CB-489D-BBDF-108C66532684}|Ch08\\Ch08.vcxproj|C:\\Users\\kik48\\Desktop\\review\\GameProgramming2\\Ch08\\main.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A6171545-59CB-489D-BBDF-108C66532684}|Ch08\\Ch08.vcxproj|solutionrelative:Ch08\\main.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{55C3AA27-3EF6-47C4-BA94-FC910AEF30E0}|Ch10\\Ch10.vcxproj|C:\\Users\\kik48\\Desktop\\review\\GameProgramming2\\Ch10\\ConsoleGame.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{55C3AA27-3EF6-47C4-BA94-FC910AEF30E0}|Ch10\\Ch10.vcxproj|solutionrelative:Ch10\\ConsoleGame.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{55C3AA27-3EF6-47C4-BA94-FC910AEF30E0}|Ch10\\Ch10.vcxproj|C:\\Users\\kik48\\Desktop\\review\\GameProgramming2\\Ch10\\ConsoleGame.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{55C3AA27-3EF6-47C4-BA94-FC910AEF30E0}|Ch10\\Ch10.vcxproj|solutionrelative:Ch10\\ConsoleGame.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{55C3AA27-3EF6-47C4-BA94-FC910AEF30E0}|Ch10\\Ch10.vcxproj|C:\\Users\\kik48\\Desktop\\review\\GameProgramming2\\Ch10\\Stage.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{55C3AA27-3EF6-47C4-BA94-FC910AEF30E0}|Ch10\\Ch10.vcxproj|solutionrelative:Ch10\\Stage.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{66BE8672-AAD3-4546-A325-62B7000D2D2E}|Ch09\\Ch09.vcxproj|C:\\Users\\kik48\\Desktop\\review\\GameProgramming2\\Ch09\\main.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{66BE8672-AAD3-4546-A325-62B7000D2D2E}|Ch09\\Ch09.vcxproj|solutionrelative:Ch09\\main.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{66BE8672-AAD3-4546-A325-62B7000D2D2E}|Ch09\\Ch09.vcxproj|C:\\Users\\kik48\\Desktop\\review\\GameProgramming2\\Ch09\\Item.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{66BE8672-AAD3-4546-A325-62B7000D2D2E}|Ch09\\Ch09.vcxproj|solutionrelative:Ch09\\Item.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{66BE8672-AAD3-4546-A325-62B7000D2D2E}|Ch09\\Ch09.vcxproj|C:\\Users\\kik48\\Desktop\\review\\GameProgramming2\\Ch09\\2DimensionArry.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{66BE8672-AAD3-4546-A325-62B7000D2D2E}|Ch09\\Ch09.vcxproj|solutionrelative:Ch09\\2DimensionArry.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{66BE8672-AAD3-4546-A325-62B7000D2D2E}|Ch09\\Ch09.vcxproj|C:\\Users\\kik48\\Desktop\\review\\GameProgramming2\\Ch09\\2DimensionArry.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{66BE8672-AAD3-4546-A325-62B7000D2D2E}|Ch09\\Ch09.vcxproj|solutionrelative:Ch09\\2DimensionArry.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     }
   ],
   "DocumentGroupContainers": [
@@ -38,97 +58,162 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 5,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "Item.c",
-              "DocumentMoniker": "C:\\Users\\kik48\\Desktop\\review\\GameProgramming2\\Ch09\\Item.c",
-              "RelativeDocumentMoniker": "Ch09\\Item.c",
-              "ToolTip": "C:\\Users\\kik48\\Desktop\\review\\GameProgramming2\\Ch09\\Item.c*",
-              "RelativeToolTip": "Ch09\\Item.c*",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAJAAAAAAAAAA==",
+              "DocumentIndex": 7,
+              "Title": "main.c",
+              "DocumentMoniker": "C:\\Users\\kik48\\Desktop\\review\\GameProgramming2\\Ch08\\main.c",
+              "RelativeDocumentMoniker": "Ch08\\main.c",
+              "ToolTip": "C:\\Users\\kik48\\Desktop\\review\\GameProgramming2\\Ch08\\main.c",
+              "RelativeToolTip": "Ch08\\main.c",
+              "ViewState": "AgIAACoAAAAAAAAAAAAAAAAAAAADAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
-              "WhenOpened": "2025-03-25T14:07:33.341Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Item.h",
-              "DocumentMoniker": "C:\\Users\\kik48\\Desktop\\review\\GameProgramming2\\Ch09\\Item.h",
-              "RelativeDocumentMoniker": "Ch09\\Item.h",
-              "ToolTip": "C:\\Users\\kik48\\Desktop\\review\\GameProgramming2\\Ch09\\Item.h*",
-              "RelativeToolTip": "Ch09\\Item.h*",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAMAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
-              "WhenOpened": "2025-03-25T14:07:23.201Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Stage.c",
-              "DocumentMoniker": "C:\\Users\\kik48\\Desktop\\review\\GameProgramming2\\Ch09\\Stage.c",
-              "RelativeDocumentMoniker": "Ch09\\Stage.c",
-              "ToolTip": "C:\\Users\\kik48\\Desktop\\review\\GameProgramming2\\Ch09\\Stage.c",
-              "RelativeToolTip": "Ch09\\Stage.c",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAAABwAAAAIAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
-              "WhenOpened": "2025-03-25T13:40:55.603Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Stage.h",
-              "DocumentMoniker": "C:\\Users\\kik48\\Desktop\\review\\GameProgramming2\\Ch09\\Stage.h",
-              "RelativeDocumentMoniker": "Ch09\\Stage.h",
-              "ToolTip": "C:\\Users\\kik48\\Desktop\\review\\GameProgramming2\\Ch09\\Stage.h",
-              "RelativeToolTip": "Ch09\\Stage.h",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
-              "WhenOpened": "2025-03-25T13:40:46.724Z",
+              "WhenOpened": "2025-03-26T19:38:23.54Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 5,
-              "Title": "2DimensionArry.c",
-              "DocumentMoniker": "C:\\Users\\kik48\\Desktop\\review\\GameProgramming2\\Ch09\\2DimensionArry.c",
-              "RelativeDocumentMoniker": "Ch09\\2DimensionArry.c",
-              "ToolTip": "C:\\Users\\kik48\\Desktop\\review\\GameProgramming2\\Ch09\\2DimensionArry.c",
-              "RelativeToolTip": "Ch09\\2DimensionArry.c",
-              "ViewState": "AgIAADkAAAAAAAAAAAAgwFEAAAAMAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
-              "WhenOpened": "2025-03-25T12:59:00.388Z",
+              "Title": "Player.h",
+              "DocumentMoniker": "C:\\Users\\kik48\\Desktop\\review\\GameProgramming2\\Ch07\\Player.h",
+              "RelativeDocumentMoniker": "Ch07\\Player.h",
+              "ToolTip": "C:\\Users\\kik48\\Desktop\\review\\GameProgramming2\\Ch07\\Player.h",
+              "RelativeToolTip": "Ch07\\Player.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-03-26T18:57:27.996Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "2DimensionArry.h",
-              "DocumentMoniker": "C:\\Users\\kik48\\Desktop\\review\\GameProgramming2\\Ch09\\2DimensionArry.h",
-              "RelativeDocumentMoniker": "Ch09\\2DimensionArry.h",
-              "ToolTip": "C:\\Users\\kik48\\Desktop\\review\\GameProgramming2\\Ch09\\2DimensionArry.h",
-              "RelativeToolTip": "Ch09\\2DimensionArry.h",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAASAAAAAAAAAA==",
+              "DocumentIndex": 4,
+              "Title": "MyGame.h",
+              "DocumentMoniker": "C:\\Users\\kik48\\Desktop\\review\\GameProgramming2\\Ch10\\MyGame.h",
+              "RelativeDocumentMoniker": "Ch10\\MyGame.h",
+              "ToolTip": "C:\\Users\\kik48\\Desktop\\review\\GameProgramming2\\Ch10\\MyGame.h",
+              "RelativeToolTip": "Ch10\\MyGame.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAPAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
-              "WhenOpened": "2025-03-25T12:58:51.182Z",
+              "WhenOpened": "2025-03-26T18:44:28.837Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Player.c",
+              "DocumentMoniker": "C:\\Users\\kik48\\Desktop\\review\\GameProgramming2\\Ch07\\Player.c",
+              "RelativeDocumentMoniker": "Ch07\\Player.c",
+              "ToolTip": "C:\\Users\\kik48\\Desktop\\review\\GameProgramming2\\Ch07\\Player.c",
+              "RelativeToolTip": "Ch07\\Player.c",
+              "ViewState": "AgIAABUAAAAAAAAAAAAAADEAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2025-03-26T18:57:34.869Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 3,
+              "Title": "MyGame.c",
+              "DocumentMoniker": "C:\\Users\\kik48\\Desktop\\review\\GameProgramming2\\Ch10\\MyGame.c",
+              "RelativeDocumentMoniker": "Ch10\\MyGame.c",
+              "ToolTip": "C:\\Users\\kik48\\Desktop\\review\\GameProgramming2\\Ch10\\MyGame.c",
+              "RelativeToolTip": "Ch10\\MyGame.c",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2025-03-26T18:44:38.736Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "main.c",
+              "DocumentMoniker": "C:\\Users\\kik48\\Desktop\\review\\GameProgramming2\\Ch10\\main.c",
+              "RelativeDocumentMoniker": "Ch10\\main.c",
+              "ToolTip": "C:\\Users\\kik48\\Desktop\\review\\GameProgramming2\\Ch10\\main.c*",
+              "RelativeToolTip": "Ch10\\main.c*",
+              "ViewState": "AgIAABUAAAAAAAAAAAApwDYAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2025-03-26T17:22:58.142Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Stage.h",
+              "DocumentMoniker": "C:\\Users\\kik48\\Desktop\\review\\GameProgramming2\\Ch10\\Stage.h",
+              "RelativeDocumentMoniker": "Ch10\\Stage.h",
+              "ToolTip": "C:\\Users\\kik48\\Desktop\\review\\GameProgramming2\\Ch10\\Stage.h",
+              "RelativeToolTip": "Ch10\\Stage.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-03-26T17:33:05.038Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "main.c",
+              "DocumentMoniker": "C:\\Users\\kik48\\Desktop\\review\\GameProgramming2\\Ch07\\main.c",
+              "RelativeDocumentMoniker": "Ch07\\main.c",
+              "ToolTip": "C:\\Users\\kik48\\Desktop\\review\\GameProgramming2\\Ch07\\main.c",
+              "RelativeToolTip": "Ch07\\main.c",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2025-03-26T18:56:32.564Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "ConsoleGame.h",
+              "DocumentMoniker": "C:\\Users\\kik48\\Desktop\\review\\GameProgramming2\\Ch10\\ConsoleGame.h",
+              "RelativeDocumentMoniker": "Ch10\\ConsoleGame.h",
+              "ToolTip": "C:\\Users\\kik48\\Desktop\\review\\GameProgramming2\\Ch10\\ConsoleGame.h",
+              "RelativeToolTip": "Ch10\\ConsoleGame.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAA6AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-03-26T17:23:39.737Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "ConsoleGame.c",
+              "DocumentMoniker": "C:\\Users\\kik48\\Desktop\\review\\GameProgramming2\\Ch10\\ConsoleGame.c",
+              "RelativeDocumentMoniker": "Ch10\\ConsoleGame.c",
+              "ToolTip": "C:\\Users\\kik48\\Desktop\\review\\GameProgramming2\\Ch10\\ConsoleGame.c",
+              "RelativeToolTip": "Ch10\\ConsoleGame.c",
+              "ViewState": "AgIAABIAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2025-03-26T17:23:49.622Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Stage.c",
+              "DocumentMoniker": "C:\\Users\\kik48\\Desktop\\review\\GameProgramming2\\Ch10\\Stage.c",
+              "RelativeDocumentMoniker": "Ch10\\Stage.c",
+              "ToolTip": "C:\\Users\\kik48\\Desktop\\review\\GameProgramming2\\Ch10\\Stage.c",
+              "RelativeToolTip": "Ch10\\Stage.c",
+              "ViewState": "AgIAABsAAAAAAAAAAAAAAAUAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2025-03-26T17:33:18.105Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
               "Title": "main.c",
               "DocumentMoniker": "C:\\Users\\kik48\\Desktop\\review\\GameProgramming2\\Ch09\\main.c",
               "RelativeDocumentMoniker": "Ch09\\main.c",
-              "ToolTip": "C:\\Users\\kik48\\Desktop\\review\\GameProgramming2\\Ch09\\main.c*",
-              "RelativeToolTip": "Ch09\\main.c*",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAAAAAAAAAAAAA==",
+              "ToolTip": "C:\\Users\\kik48\\Desktop\\review\\GameProgramming2\\Ch09\\main.c",
+              "RelativeToolTip": "Ch09\\main.c",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAADAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
-              "WhenOpened": "2025-03-25T12:58:18.188Z",
+              "WhenOpened": "2025-03-26T19:38:15.944Z",
               "EditorCaption": ""
             }
           ]
